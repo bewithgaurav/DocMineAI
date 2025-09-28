@@ -1,0 +1,33 @@
+Business Partnership Agreement
+
+This Agreement is entered into between TechCorp Solutions Inc., a Delaware corporation 
+("Service Provider"), and Global Industries Ltd., a California corporation ("Client").
+
+FINANCIAL TERMS:
+- Total Contract Value: $2,500,000 USD over 36 months
+- Monthly Payment: $69,444 USD due on the 1st of each month
+- Performance Bonus: Up to 15% of annual revenue based on KPIs
+
+KEY DATES:
+- Contract Start: October 1, 2025
+- First Milestone: December 15, 2025 (30% payment release)
+- Mid-project Review: April 1, 2026
+- Contract End: September 30, 2027
+
+SERVICES:
+TechCorp will provide:
+1. Custom software development
+2. API integration services
+3. 24/7 technical support
+4. Security compliance consulting
+
+DELIVERABLES:
+- Weekly progress reports
+- Code quality documentation
+- User training materials
+- Complete source code transfer
+
+This agreement includes intellectual property transfer and confidentiality clauses.
+Both parties agree to dispute resolution through binding arbitration.
+
+Signed: [Digital signatures and dates would appear here]
