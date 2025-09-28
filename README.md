@@ -422,8 +422,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the DocMineAI team**
-
 > 🚀 **Ready to extract insights from your documents?**  
 > Start with the **[`examples/`](examples/)** directory and follow the step-by-step guides!
 
